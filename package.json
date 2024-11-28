@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "git-config-setup": "./set-config.js"
+    "git-config-setup": "node set-config.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
