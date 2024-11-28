@@ -1,10 +1,10 @@
 {
   "name": "git-config-setup",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "bin": {
-    "git-config-setup": "node set-config.js"
+    "git-config-setup": "set-config.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
